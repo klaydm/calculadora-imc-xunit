@@ -3,7 +3,9 @@
 ## Esta calculadora IMC calcula o índice de massa corporal (IMC) de uma pessoa, de acordo com a fórmula:
 
 IMC = peso / altura^2
-O IMC é uma medida da relação entre o peso e a altura de uma pessoa. É um indicador de saúde geral, e valores de IMC fora da faixa normal podem indicar um risco aumentado de doenças.
+O IMC é uma medida da relação entre o peso e a altura de uma pessoa.
+É um indicador de saúde geral, e valores de IMC fora da faixa normal podem indicar um risco aumentado de doenças.
+
 
 ## A calculadora IMC também classifica o IMC de uma pessoa em uma das seguintes categorias:
 
